@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244514570336",
+    "project_id": "hsdk-d9fe3",
+    "storage_bucket": "hsdk-d9fe3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244514570336:android:9f03624a82164cd5a4c305",
+        "android_client_info": {
+          "package_name": "com.hsdk.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDghIqcnSPx7mORBmTplBK_pq6PWshporM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
